@@ -6,4 +6,4 @@
 * interests:
   * mechanical fault diagnosis based on deep neural network
 
-<img src="./figures/饮水思源.jpg" witdth ="20" />
+<img src="./figures/饮水思源.jpg" width="200" height="200" alt="微信小程序"/><br/>
